@@ -1,0 +1,4 @@
+Rafael;18
+Biel;50
+Ana;23
+Helen;34
